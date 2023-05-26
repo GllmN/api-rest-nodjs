@@ -1,13 +1,15 @@
 <div align="center">
 
-# Beer - Back end | API REST - NodeJS ExpressJS
+# Beer - Back end | API REST
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ExpressJS-v4.17.1-blue">
+  <img style="width: 15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png">
+  <img style="width: 15%" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
+  <img style="width: 15%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_wordmark_logo_icon_146349.png">
   <br><br>
 </p>
-<p align="center">
+<p align="center" valign="middle">
     <img src="https://img.shields.io/badge/ExpressJS-v4.17.1-blue">
     <img src="https://img.shields.io/badge/Bcrypt-5.0.1-blue">
     <img src="https://img.shields.io/badge/license-MIT-green">
