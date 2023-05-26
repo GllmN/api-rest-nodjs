@@ -11,9 +11,11 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/ExpressJS-v4.17.1-blue">
+    <img src="https://img.shields.io/badge/Sequelize-v4.17.1-purple">
+    <img src="https://img.shields.io/badge/JsonWebToken-8.5.1-blue">
     <img src="https://img.shields.io/badge/Bcrypt-5.0.1-blue">
     <img src="https://img.shields.io/badge/license-MIT-green">
-    <img src="https://img.shields.io/badge/build-passing-brightgreen">
+<!--     <img src="https://img.shields.io/badge/build-passing-brightgreen"> -->
     <img src="https://img.shields.io/badge/node--lts-16.15.1-brightgreen">
     <img src="https://img.shields.io/badge/npm-8.13.2-blue">
   <br><br><br>
@@ -28,8 +30,8 @@ La source du projet est issue de la chaine Youtube "Faisons le point" : https://
 
 ## Fonctionnalitées
 - Gestion des comptes utilisateurs et des connections. 
-- Gestion des bières en CRUD
-- Session utilisateur gérée avec le JWT Token
+- Gestion des bières en CRUD.
+- Session utilisateur gérée avec le Json Web Token.
 
 
 ## Installation
