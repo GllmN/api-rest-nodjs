@@ -5,7 +5,7 @@
 
 <p align="center" valign="middle">
   <img align=middle style="width: 15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png">
-  <img align=middle style="width: 15%" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
+  <img align=middle style="width: 20%" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
   <img align=middle style="width: 15%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_wordmark_logo_icon_146349.png">
   <br><br>
 </p>
