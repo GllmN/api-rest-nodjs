@@ -25,7 +25,7 @@
 
 
 ## A propos
-Ce projet est la couche back end d'une application, cette couche est conçu dans le principe d'une API REST . Ici il s'agit d'un projet autour des objets type bière.
+Ce projet NodeJs represente la couche back-end d'une application, elle est conçu dans le principe d'une API REST basique. Ici il s'agit d'un projet autour d'objets de type "bière".
 
 ## Source du projet
 La source du projet est issue de la chaine Youtube "Faisons le point" : https://www.youtube.com/watch?v=iCZcE-JKbyY&list=PLwJWw4Pbl4w_oHjPIjkdVtwLeQECK08jv
