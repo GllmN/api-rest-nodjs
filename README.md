@@ -27,9 +27,9 @@ Ce projet est la couche back end d'une application, cette couche est conçu dans
 La source du projet est issue de la chaine Youtube "Faisons le point" : https://www.youtube.com/watch?v=iCZcE-JKbyY&list=PLwJWw4Pbl4w_oHjPIjkdVtwLeQECK08jv
 
 ## Fonctionnalitées
-- Gestion des utilisateurs compte et connection. 
+- Gestion des comptes utilisateurs et des connections. 
 - Gestion des bières en CRUD
-- Session utilisateur gérée avec le JsonWebToken
+- Session utilisateur gérée avec le JWT Token
 
 
 ## Installation
