@@ -3,13 +3,13 @@
 # Beer - Back end | API REST
 </div>
 
-<p align="center">
+<p align="center" valign="middle">
   <img style="width: 15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png">
   <img style="width: 15%" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
   <img style="width: 15%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_wordmark_logo_icon_146349.png">
   <br><br>
 </p>
-<p align="center" valign="middle">
+<p align="center">
     <img src="https://img.shields.io/badge/ExpressJS-v4.17.1-blue">
     <img src="https://img.shields.io/badge/Bcrypt-5.0.1-blue">
     <img src="https://img.shields.io/badge/license-MIT-green">
@@ -20,20 +20,19 @@
 </p>
 
 
-# A propos
+## A propos
 Ce projet est la couche back end d'une application, cette couche est conçu dans le principe d'une API REST . Ici il s'agit d'un projet autour des objets type bière.
 
 ## Source du projet
 La source du projet est issue de la chaine Youtube "Faisons le point" : https://www.youtube.com/watch?v=iCZcE-JKbyY&list=PLwJWw4Pbl4w_oHjPIjkdVtwLeQECK08jv
 
-
-# Fonctionnalitées
+## Fonctionnalitées
 - Gestion des utilisateurs compte et connection. 
 - Gestion des bières en CRUD
 - Session utilisateur gérée avec le JsonWebToken
 
 
-# Installation
+## Installation
 Une fois le dépôt cloné et une fois rendu dans le dossier du projet ne pas oublier d'installer les dépendances
 ``` 
 npm install 
